@@ -1,6 +1,6 @@
 {
   "name": "hexo-caniuse",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Hexo tag to embed code snippet from caniuse.com",
   "main": "index.js",
   "scripts": {
