@@ -4,6 +4,7 @@ function caniuseTagRender(args) {
     return '';
   }
 
+  const feature = args[0];
   const periods = args[1] | 'current';
 
   return `<p class="ciu_embed" data-feature="${feature}" data-periods="${periods}"><a href="http://caniuse.com/#feat=${feature}">Can I Use ${feature}?</a> Data on support for the ${feature} feature across the major browsers from caniuse.com.</p>`;
