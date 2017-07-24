@@ -52,8 +52,8 @@ MIT
 
 [yarn-url]: https://yarnpkg.com/en/package/hexo-caniuse
 
-[depstat-url]: https://gemnasium.com/timnew/hexo-caniuse
-[depstat-image]: http://img.shields.io/gemnasium/timnew/hexo-∏caniuse.svg?style=flat
+[depstat-url]: https://gemnasium.com/maliMirkec/hexo-caniuse
+[depstat-image]: http://img.shields.io/gemnasium/maliMirkec/hexo-∏caniuse.svg?style=flat
 
 [Hexo]: http://hexo.io/
 [caniuse]: http://caniuse.com/
