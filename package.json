@@ -1,0 +1,26 @@
+{
+  "name": "hexo-caniuse",
+  "version": "0.1.0",
+  "description": "Hexo tag to embed code snippet from caniuse.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maliMirkec/hexo-caniuse"
+  },
+  "keywords": [
+    "hexo",
+    "plugin",
+    "tag",
+    "caniuse",
+    "maliMirkec"
+  ],
+  "author": "maliMirkec <malimirkeccita@gmail.com> (https://www.silvestarbistrovic.from.hr)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maliMirkec/hexo-caniuse/issues"
+  },
+  "homepage": "https://github.com/maliMirkec/hexo-caniuse"
+}
